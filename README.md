@@ -1,3 +1,3 @@
-# supriti.github.io
+# Supriti's Resume Website
 
-Resume Website
+Link: supritighosh.github.io
