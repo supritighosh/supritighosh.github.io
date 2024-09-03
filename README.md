@@ -1,3 +1,3 @@
-# Supriti's Resume Website
+# Supriti's Resume Website: https://supritighosh.github.io
 
-Link: https://supritighosh.github.io
+# Supriti's Medium Website: https://medium.com/@supritig
